@@ -17,5 +17,4 @@ A simple and interactive Counter Application built using HTML, CSS, and JavaScri
 - **JavaScript** – Logic and Interactivity
 - **Bootstrap** – Responsive Design and Components
 
-## 📁 Project Structure
 
